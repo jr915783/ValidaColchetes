@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bravi\Bravi\bin\Debug\net6.0\Bravi.exe
+C:\Users\Dell\source\repos\Bravi\Bravi\bin\Debug\net6.0\Bravi.deps.json
+C:\Users\Dell\source\repos\Bravi\Bravi\bin\Debug\net6.0\Bravi.runtimeconfig.json
+C:\Users\Dell\source\repos\Bravi\Bravi\bin\Debug\net6.0\Bravi.dll
+C:\Users\Dell\source\repos\Bravi\Bravi\bin\Debug\net6.0\Bravi.pdb
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.dll
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\refint\Bravi.dll
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.pdb
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\Bravi.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bravi\Bravi\obj\Debug\net6.0\ref\Bravi.dll
